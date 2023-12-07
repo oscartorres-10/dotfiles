@@ -1,0 +1,14 @@
+[user]
+	name = oscartorres
+	email = 38195378+oscartorres-10@users.noreply.github.com
+[alias]
+	co = commit
+	ch = checkout
+	br = branch
+	st = status
+	pu = push
+[core]
+	editor = code --wait
+	autocrlf = input
+[push]
+	autoSetupRemote = true
