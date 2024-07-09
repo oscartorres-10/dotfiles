@@ -1,11 +1,8 @@
 tap "homebrew/bundle"
-tap "planetscale/tap"
 # Distributed revision control system
 brew "git"
 # Open source relational database management system
 brew "mysql-client"
-# The PlanetScale CLI
-brew "planetscale/tap/pscale"
 vscode "adam-bender.commit-message-editor"
 vscode "andrew-codes.cypress-snippets"
 vscode "astro-build.astro-vscode"
