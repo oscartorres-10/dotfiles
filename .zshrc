@@ -16,3 +16,6 @@ zstyle ':vcs_info:git:*' formats '%b '
 # putting my prompt together
 setopt PROMPT_SUBST
 PROMPT='%F{green}%*%f %F{blue}%1d%f %F{red}${vcs_info_msg_0_}%f$ ' # https://zsh.sourceforge.io/Doc/Release/Prompt-Expansion.html
+
+alias tf='terraform'
+
