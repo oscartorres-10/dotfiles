@@ -5,7 +5,7 @@
 	co = commit
 	ch = checkout
 	br = branch
-	st = status
+	st = status -s
 	pu = push
 	gone = "!f() { git fetch --all --prune; git branch -vv | awk '/: gone]/{print $1}' | xargs git branch -D; }; f"
 [core]
