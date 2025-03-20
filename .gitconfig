@@ -8,7 +8,7 @@
 	st = status -s
 	pu = push
   ss = stash
-  ssu = stash -u
+  su = stash -u
   sp = stash pop
 	gone = "!f() { git fetch --all --prune; git branch -vv | awk '/: gone]/{print $1}' | xargs git branch -D; }; f"
 [core]
