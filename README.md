@@ -1,6 +1,6 @@
-# oscartorres dotfiles
+# Oscar Torres dotfiles
 
-made with [~/.dotfiles in 100 Seconds](https://www.youtube.com/watch?v=r_MpUP6aKiQ) from [Fireship](https://www.youtube.com/@Fireship), more information below:
+Inspired by [~/.dotfiles in 100 Seconds](https://www.youtube.com/watch?v=r_MpUP6aKiQ) from [Fireship](https://www.youtube.com/@Fireship).
 
 <details>
   <summary>Acknowledgements</summary>
