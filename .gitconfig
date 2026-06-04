@@ -14,6 +14,7 @@
 [core]
 	editor = code --wait
 	autocrlf = input
+	excludesFile = /Users/oscartorres/.gitignore_global
 [push]
 	autoSetupRemote = true
 [init]
