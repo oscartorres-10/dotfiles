@@ -1,0 +1,9 @@
+{
+  "conventionalCommits.scopes": [
+    "header",
+    "main-nav",
+    ".zshrc",
+    "Brewfile",
+    ".gitconfig"
+  ]
+}
